@@ -111,15 +111,13 @@ nav{
     letter-spacing: 5px;
 }
 
-.third{
-    text-align: center;
-}
+
 body {
     overflow-x: hidden !important;
 }
 
 .banner{
-    background:url('./img/pets6.jpg') no-repeat;
+    background:url('./img/main.jpg') no-repeat;
     background-size: 100% 600px;
      height: 600px; 
      /* display: flex;
